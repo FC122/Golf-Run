@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InfiniteLevel.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 39f401e450c084b49a14cbc28317658c
+  - enabled: 1
+    path: Assets/Scenes/LevelsMenu.unity
+    guid: f2308ab1495bbb34284b67eb0e1fff3a
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 52241722a63a50f4582756a41883012a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Blue/Blue 2.unity
+    guid: 74442386ab6c45f479480a83eb36e76d
+  - enabled: 1
+    path: Assets/Scenes/Levels/Blue/Blue 3.unity
+    guid: 5f8e8cd5781751348ba2a2cf250df734
+  - enabled: 1
+    path: Assets/Scenes/Levels/Blue/Blue 4.unity
+    guid: 0226a9acfb78029419e96e7a090509bf
+  - enabled: 1
+    path: Assets/Scenes/Levels/Blue/Blue 5.unity
+    guid: 55fe700d6c72d80429662765daaa0948
+  - enabled: 1
+    path: Assets/Scenes/Levels/Blue/Blue 6.unity
+    guid: 7c068ea03809d174286a28323ea498ed
+  - enabled: 1
+    path: Assets/Scenes/Levels/Blue/Blue 7.unity
+    guid: 640def313381e1f449c9213521c250b7
+  - enabled: 1
+    path: Assets/Scenes/Levels/Purple/Purple 2.unity
+    guid: 66bc272389ca2ae4d9b028255e79217d
+  - enabled: 1
+    path: Assets/Scenes/Levels/Purple/Purple 1.unity
+    guid: 4ab3c5e826db4614e84035c78e95c6ae
+  - enabled: 1
+    path: Assets/Scenes/Levels/Purple/Purple 3.unity
+    guid: 1c0c11e727b46854badf6e801de6819e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Purple/Purple 4.unity
+    guid: b6ee33332ab75cc4d941c78b87e209c1
+  - enabled: 1
+    path: Assets/Scenes/Levels/Purple/Purple 5.unity
+    guid: f522ff86818e6a8428c368e215bd07ed
+  - enabled: 1
+    path: Assets/Scenes/Levels/Purple/Purple 6.unity
+    guid: d6ee12be8da39a647b25bbcf2e1789b3
+  - enabled: 1
+    path: Assets/Scenes/Levels/Purple/Purple 7.unity
+    guid: d04bcce6fc58c3e4799c64baa164e1d7
+  - enabled: 1
+    path: Assets/Scenes/Levels/Purple/Purple 8.unity
+    guid: f94506566206bfb4081d7ff150e8d839
+  - enabled: 1
+    path: Assets/Scenes/Levels/Yellow/Yellow 1.unity
+    guid: b03c9be2d6b93304b94bf78a9c02c68f
+  - enabled: 1
+    path: Assets/Scenes/Levels/Yellow/Yellow 2.unity
+    guid: 3d02f6764ac07ec43a0ed21775add907
+  - enabled: 1
+    path: Assets/Scenes/Levels/Yellow/Yellow 3.unity
+    guid: 2fa83dcf0dc27bb4ab867fbc2a64714a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Yellow/Yellow 4.unity
+    guid: 4c0b44985e17bd14f9f92802662d96f5
+  - enabled: 1
+    path: Assets/Scenes/Levels/Yellow/Yellow 5.unity
+    guid: b3ef83506a0f2364db4cd056c9347c23
+  - enabled: 1
+    path: Assets/Scenes/Levels/Yellow/Yellow 6.unity
+    guid: 83b37531a890f2e4190770a14321f428
+  - enabled: 1
+    path: Assets/Scenes/Levels/Yellow/Yellow 7.unity
+    guid: 0adb198fd49374c4299b9db453faa8f1
+  - enabled: 1
+    path: Assets/Scenes/Levels/Yellow/Yellow 8.unity
+    guid: 64101a79e0d900345b9d5ef682cf0a29
+  - enabled: 1
+    path: Assets/Scenes/Levels/Blue/Blue 8.unity
+    guid: 2a9d3a6c60ea5ac4ca989689d97e5760
+  - enabled: 1
+    path: Assets/Scenes/Levels/Blue/Blue 1.unity
+    guid: 1f6ab228a432fb8459558e14ee51d785
+  m_configObjects: {}
