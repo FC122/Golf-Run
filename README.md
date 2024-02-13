@@ -1,0 +1,1 @@
+Hey there! Check out my final project from FERIT, Osijek. It's the culmination of my Bachelor's in Software Engineering. I've put in a lot of work to make it happen, blending theory with practical skills. Take a look and let me know what you think!
