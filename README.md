@@ -1,6 +1,6 @@
 # Golf Run
 An interactive 2d game that features a variety of leveles with different static and dynamic obstacles. It also features an infinite level that implements a pseudo-random obstacle generation.
-
+- This repo contains the Software part of this Undergraduate thesis: https://repozitorij.etfos.hr/islandora/object/etfos%3A3567
 ## Design
 
 ### Navigation
